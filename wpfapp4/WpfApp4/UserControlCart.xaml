@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="WpfApp4.UserControlCart"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfApp4"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="white" Margin="0,0,-437,-227">
+        <Grid x:Name="GridProducts" HorizontalAlignment="Left" Height="540" Margin="36,36,0,0" VerticalAlignment="Top" Width="1178">
+            <ListView x:Name="ProductsList" HorizontalAlignment="Left" Height="520" Margin="10,10,0,0" VerticalAlignment="Top" Width="1158">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Grid>
+        <TextBlock x:Name="CategoryName" HorizontalAlignment="Left" Margin="40,10,0,0" TextWrapping="Wrap" Text="Koszyk" VerticalAlignment="Top" Foreground="#FFE23333" FontWeight="Bold" FontSize="24" FontStyle="Italic" TextDecorations="{x:Null}" TextAlignment="Center" Width="1174"/>
+        <TextBlock x:Name="ErrorMessage" HorizontalAlignment="Left" Margin="116,125,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="480" Width="963" FontSize="20" FontWeight="Bold" FontStyle="Italic" Foreground="Red" Visibility="Hidden"/>
+        <Button x:Name="ButtonOrder" Content="Do zamówienia" HorizontalAlignment="Left" Height="42" Margin="515,596,0,0" VerticalAlignment="Top" Width="159"  BorderBrush="{x:Null}" Background="#FFE01616" FontWeight="Bold" FontSize="16" Foreground="#FFFBF8F8" Click="ButtonOrder_Click"/>
+    </Grid>
+</UserControl>

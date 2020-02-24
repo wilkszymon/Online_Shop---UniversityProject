@@ -1,0 +1,61 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace WpfApp4
+{
+    /// <summary>
+    /// Logika interakcji dla klasy UserControlRegister.xaml
+    /// </summary>
+    public partial class UserControlRegister : UserControl
+    {
+        public UserControlRegister()
+        {
+            InitializeComponent();
+        }
+
+        public void Register()
+        {
+            if (Name.Text == "" || Surname.Text == "" || Username.Text == "" || Password.Password == "" || City.Text == "" || Street.Text == "" || PhoneNumber.Text == "" || ZipCode.Text == "" || Email.Text == "" || HouseNumber.Text == "" || ApartmentNumber.Text == "")
+            {
+                LabelRequired.Content = "Proszę wypełnić wszystkie pola.";
+                return;
+            }
+
+            Server.SendString("register " + Username.Text + " " + Password.Password + " " + Email.Text + " " + Name.Text + " " + Surname.Text + " " + Street.Text + " " + ZipCode.Text + " " + City.Text + " " + HouseNumber.Text + " " + ApartmentNumber.Text + " " + PhoneNumber.Text);
+            LabelRequired.Content = Server.ReceiveResponse();
+        }
+
+        
+
+        private void ButtonRegister_Click(object sender, RoutedEventArgs e)
+        {
+            Register();
+        }
+
+        private void clickEnter(object sender, KeyEventArgs e)
+        {
+            if (e.Key == Key.Enter)
+            {
+                Register();
+            }
+        }
+
+        private void Register()
+        {
+            }
+        }
+
+    }
+}

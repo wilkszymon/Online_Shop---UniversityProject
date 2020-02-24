@@ -1,0 +1,336 @@
+D:\C#\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+D:\C#\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe
+D:\C#\WpfApp4\WpfApp4\bin\Debug\WpfApp4.pdb
+D:\C#\WpfApp4\WpfApp4\obj\Debug\MainWindow.g.cs
+D:\C#\WpfApp4\WpfApp4\obj\Debug\App.g.cs
+D:\C#\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+D:\C#\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+D:\C#\WpfApp4\WpfApp4\obj\Debug\MainWindow.baml
+D:\C#\WpfApp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+D:\C#\WpfApp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+D:\C#\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.Cache
+D:\C#\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+D:\C#\WpfApp4\WpfApp4\obj\Debug\WpfApp4.exe
+D:\C#\WpfApp4\WpfApp4\obj\Debug\WpfApp4.pdb
+D:\C#\WpfApp4\WpfApp4\obj\Debug\UserControlHome.g.cs
+D:\C#\WpfApp4\WpfApp4\obj\Debug\UserControlSmartphone.g.cs
+D:\C#\WpfApp4\WpfApp4\obj\Debug\UserControlHome.baml
+D:\C#\WpfApp4\WpfApp4\obj\Debug\UserControlSmartphone.baml
+D:\C#\WpfApp4\WpfApp4\obj\Debug\UserControlMonitor.g.cs
+D:\C#\WpfApp4\WpfApp4\obj\Debug\UserControlMonitor.baml
+D:\C#\WpfApp4\WpfApp4\obj\Debug\UserControlLogin.g.cs
+D:\C#\WpfApp4\WpfApp4\obj\Debug\UserControlLogin.baml
+D:\C#\WpfApp4\WpfApp4\obj\Debug\UserControlRegister.g.cs
+D:\C#\WpfApp4\WpfApp4\obj\Debug\UserControlRegister.baml
+D:\C#\WpfApp4\WpfApp4\obj\Debug\UserControlAGD.g.cs
+D:\C#\WpfApp4\WpfApp4\obj\Debug\UserControlTablet.g.cs
+D:\C#\WpfApp4\WpfApp4\obj\Debug\UserControlAGD.baml
+D:\C#\WpfApp4\WpfApp4\obj\Debug\UserControlTablet.baml
+D:\C#\WpfApp4\WpfApp4\obj\Debug\UserControlHuaweiy5.g.cs
+D:\C#\WpfApp4\WpfApp4\obj\Debug\UserControlHuaweiy5.baml
+D:\C#\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csprojResolveAssemblyReference.cache
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\UserControlAGD.g.cs
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\UserControlHome.g.cs
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\UserControlHuaweiy5.g.cs
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\UserControlLogin.g.cs
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\UserControlMonitor.g.cs
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\UserControlRegister.g.cs
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\UserControlSmartphone.g.cs
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\UserControlTablet.g.cs
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\App.g.cs
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\UserControlAGD.baml
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\UserControlHome.baml
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\UserControlHuaweiy5.baml
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\UserControlLogin.baml
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\UserControlMonitor.baml
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\UserControlRegister.baml
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\UserControlSmartphone.baml
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\UserControlTablet.baml
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\WpfApp4.pdb
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\UserControlUserData.g.cs
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\UserControlUserData.baml
+C:\Users\Szymon2112g\Desktop\14,15 grudzien\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\UserControlAGD.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\UserControlHome.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\UserControlHuaweiy5.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\UserControlLogin.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\UserControlMonitor.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\UserControlRegister.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\UserControlSmartphone.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\UserControlTablet.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\UserControlUserData.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\App.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\UserControlAGD.baml
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\UserControlHome.baml
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\UserControlHuaweiy5.baml
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\UserControlLogin.baml
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\UserControlMonitor.baml
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\UserControlRegister.baml
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\UserControlSmartphone.baml
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\UserControlTablet.baml
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\UserControlUserData.baml
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\Szymon2112g\Desktop\POProjekt\wpfapp4\WpfApp4\obj\Debug\WpfApp4.pdb
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\UserControlHome.g.cs
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\UserControlLogin.g.cs
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\UserControlRegister.g.cs
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\UserControlUserData.g.cs
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\App.g.cs
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\UserControlHome.baml
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\UserControlLogin.baml
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\UserControlRegister.baml
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\UserControlUserData.baml
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.pdb
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProduct.g.cs
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProductInCategory.g.cs
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProductsCategory.g.cs
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProduct.baml
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProductInCategory.baml
+C:\Users\Rogbin\Desktop\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProductsCategory.baml
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\bin\Debug\WpfApp4.exe
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\bin\Debug\WpfApp4.pdb
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csprojResolveAssemblyReference.cache
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\MainWindow.g.cs
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlHome.g.cs
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlLogin.g.cs
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlProduct.g.cs
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlProductInCategory.g.cs
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlProductsCategory.g.cs
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlRegister.g.cs
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlUserData.g.cs
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\App.g.cs
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\MainWindow.baml
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlHome.baml
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlLogin.baml
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlProduct.baml
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlProductInCategory.baml
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlProductsCategory.baml
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlRegister.baml
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlUserData.baml
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.Cache
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\WpfApp4.exe
+D:\PO-pro\PO-master\wpfapp4\WpfApp4\obj\Debug\WpfApp4.pdb
+D:\Po-projekt\PO\wpfapp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+D:\Po-projekt\PO\wpfapp4\WpfApp4\bin\Debug\WpfApp4.exe
+D:\Po-projekt\PO\wpfapp4\WpfApp4\bin\Debug\WpfApp4.pdb
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csprojResolveAssemblyReference.cache
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\MainWindow.g.cs
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\UserControlHome.g.cs
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\UserControlLogin.g.cs
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProduct.g.cs
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProductInCategory.g.cs
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProductsCategory.g.cs
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\UserControlRegister.g.cs
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\UserControlUserData.g.cs
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\App.g.cs
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\MainWindow.baml
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\UserControlHome.baml
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\UserControlLogin.baml
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProduct.baml
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProductInCategory.baml
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProductsCategory.baml
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\UserControlRegister.baml
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\UserControlUserData.baml
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.Cache
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.exe
+D:\Po-projekt\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.pdb
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\UserControlHome.g.cs
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\UserControlLogin.g.cs
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\UserControlProduct.g.cs
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\UserControlProductInCategory.g.cs
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\UserControlProductsCategory.g.cs
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\UserControlRegister.g.cs
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\UserControlUserData.g.cs
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\App.g.cs
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\UserControlHome.baml
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\UserControlLogin.baml
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\UserControlProduct.baml
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\UserControlProductInCategory.baml
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\UserControlProductsCategory.baml
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\UserControlRegister.baml
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\UserControlUserData.baml
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\Szymon2112g\Desktop\wpfapp4\WpfApp4\obj\Debug\WpfApp4.pdb
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csprojResolveAssemblyReference.cache
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\MainWindow.g.cs
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\UserControlAddressCorres.g.cs
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\UserControlChangePassword.g.cs
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\UserControlHome.g.cs
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\UserControlLogin.g.cs
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProduct.g.cs
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProductInCategory.g.cs
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProductsCategory.g.cs
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\UserControlRegister.g.cs
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\UserControlUserData.g.cs
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\App.g.cs
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.exe
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.pdb
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\bin\Debug\WpfApp4.exe
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\bin\Debug\WpfApp4.pdb
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\MainWindow.baml
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\UserControlAddressCorres.baml
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\UserControlChangePassword.baml
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\UserControlHome.baml
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\UserControlLogin.baml
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProduct.baml
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProductInCategory.baml
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProductsCategory.baml
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\UserControlRegister.baml
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\UserControlUserData.baml
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.Cache
+D:\ProjektowanieObiektowe\PO-master\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlAddressCorres.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlChangePassword.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlHome.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlLogin.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlOrder.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProduct.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProductInCategory.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProductsCategory.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlRegister.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlUserData.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\App.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlAddressCorres.baml
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlChangePassword.baml
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlHome.baml
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlLogin.baml
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlOrder.baml
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProduct.baml
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProductInCategory.baml
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProductsCategory.baml
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlRegister.baml
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlUserData.baml
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.pdb
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlAddProduct.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlAddProduct.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlAddProduct.g.cs
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlAddressCorres.g.cs
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlCart.g.cs
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlChangePassword.g.cs
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlHome.g.cs
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlLogin.g.cs
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlOrder.g.cs
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlProduct.g.cs
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlProductInCategory.g.cs
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlProductsCategory.g.cs
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlRegister.g.cs
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlUserData.g.cs
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\App.g.cs
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlAddProduct.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlAddressCorres.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlChangePassword.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlHome.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlLogin.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlOrder.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlProduct.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlProductInCategory.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlProductsCategory.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlRegister.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlUserData.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlCart.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\WpfApp4.pdb
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlCart.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlCart.baml
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlOrders.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlOrders.baml
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlOrderList.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlOrderList.baml
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlUserDataFromOrderList.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlUserDataFromOrderList.baml
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProductInCart.g.cs
+C:\Users\Szymon2112g\Desktop\POProjekt2\PO\wpfapp4\WpfApp4\obj\Debug\UserControlProductInCart.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlOrderList.g.cs
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlOrders.g.cs
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlProductInCart.g.cs
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlUserDataFromOrderList.g.cs
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlOrderList.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlOrders.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlProductInCart.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlUserDataFromOrderList.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlSearchProduct.baml
+C:\Users\User\Desktop\PO-master\wpfapp4\WpfApp4\obj\Debug\UserControlSearchProduct.g.cs

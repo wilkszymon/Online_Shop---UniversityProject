@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="WpfApp4.UserControlAddressCorres"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfApp4"
+             mc:Ignorable="d" 
+             d:DesignHeight="677" d:DesignWidth="1237" KeyDown="UserControl_KeyDown">
+    <Grid Background="white">
+        <Grid  HorizontalAlignment="Left" Height="548" Margin="316,119,0,0" VerticalAlignment="Top" Width="700">
+
+            <Label Content="Miejscowość*" HorizontalAlignment="Left" Height="31" Margin="20,29,0,0" VerticalAlignment="Top" Width="83" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="11"/>
+            <TextBox x:Name="CityCoress" PreviewTextInput="TextValidationTextBox" HorizontalAlignment="Left" Height="31" Margin="121,29,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="163" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+
+            <Label Content="Ulica*" HorizontalAlignment="Left" Height="31" Margin="28,102,0,0" VerticalAlignment="Top" Width="87" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="11"/>
+            <TextBox x:Name="StreetCoress" PreviewTextInput="TextValidationTextBox" HorizontalAlignment="Left" Height="31" Margin="120,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="163" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+
+            <Label Content="Numer lokalu*" HorizontalAlignment="Left" Height="31" Margin="20,173,0,0" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="11"/>
+            <TextBox x:Name="ApartmentNumberCoress" PreviewTextInput="HouseAndApartmentNumberValidationTextBox" HorizontalAlignment="Left" Height="31" Margin="120,173,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="163" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <Label Content="* Pole wymagane" HorizontalAlignment="Left" Height="32" Margin="20,221,0,0" VerticalAlignment="Top" Width="189" Foreground="#FFE41A1A" FontSize="10" VerticalContentAlignment="Center"/>
+            <Label Content="Numer domu*" HorizontalAlignment="Left" Height="31" Margin="334,102,0,0" VerticalAlignment="Top" Width="89" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="11"/>
+            <TextBox x:Name="HouseNumberCoress" PreviewTextInput="HouseAndApartmentNumberValidationTextBox" HorizontalAlignment="Left" Height="31" Margin="435,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="163" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <Label Content="Kod pocztowy*" HorizontalAlignment="Left" Height="31" Margin="330,29,0,0" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="11" RenderTransformOrigin="0.45,0.548"/>
+            <TextBox x:Name="ZIPCodeCoress" PreviewTextInput="ZipCodeValidationTextBox" HorizontalAlignment="Left" Height="31" Margin="435,29,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="163" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <Button x:Name="ChangeAddressCorres" Content="Zmień adres korespondencyjny" Background="#FFE01616" Foreground="#FFFBF8F8" BorderBrush="{x:Null}" HorizontalAlignment="Left" Height="69" Margin="243,331,0,0" VerticalAlignment="Top" Width="200"  RenderTransformOrigin="0.503,-1.475" FontSize="13" FontWeight="bold" Click="ChangeAddressCorres_Click"/>
+            <Label x:Name="LabelRequired" HorizontalAlignment="Left" Height="32" Margin="20,253,0,0" VerticalAlignment="Top" Width="337" Foreground="#FFE41A1A" FontSize="14"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="33" Margin="216,53,0,0" VerticalAlignment="Top" Width="288">
+            <Label Content="Adres korespondencyjny" HorizontalAlignment="Left" Height="33" VerticalAlignment="Top" Width="235" FontSize="18" FontWeight="Bold" Margin="107,0,-54,0"/>
+        </Grid>
+
+    </Grid>
+</UserControl>

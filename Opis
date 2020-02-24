@@ -1,0 +1,26 @@
+﻿Baza danych:
+- produkty - dane oferowanych produktów w sklepie [id, kategoria, nazwa, producent, opis, cena_netto, cena_brutto, vat, ilość dostępna,liczba sprzedanych, status ...]
+
+- temp - produkty przechowywane w koszykach klientów [id, id_produkt, id_użytkownik, ilość, data_dodania ... ] usuwane z koszyków klientów automatycznie po godzinie?
+
+- users - dane na temat użytkowników [id, id_adres, login, hasło (hash), mail, imię, nazwisko, numer_telefonu ... ]
+
+- adresy - [id, miasto, kod_pocztowy, ulica, numer_domu, numer_lokalu,]
+
+- pracownik - [id, id_adres, login, hasło (hash), mail, imię, nazwisko, numer_telefonu,  uprawnienia, data_zatrudnienia, aktywny, data_zwolnienia]
+
+- zamówienia - zamówienia zrealizowane w sklepie [id, id_użytkownik, data_złożenia, status, data_przyjęcia, zapłacono, data_realizacji, numer_przesyłki? ...  ]
+
+- pozycje_zamówienia - [id, id_zamówienie, id_produkt, ilość ...]
+
+- faktury - [id_faktura, id_zamówienie, id_klient, wartość_netto, wartość_brutto, vat, forma_płatności]
+
+
+
+Klient:
+Może przeglądać zakładki sklepu oraz produkty na stronie bez posiadania konta, musi stworzyć konto jeżeli chce dokonać zakupu. Po założeniu konta może dodawać produkty do koszyka, zmieniać swoje dane adresowe / dodać adres korespodencyjny (wysyłkowy), zmienić hasło, usuwać dane z koszyka. Z koszyka może wybrać, na które produkty chce złożyć zamówienie, zamówienie pojawia się w osobnej zakładce, klient może je anulować lub opłacić, po dokonaniu płatności zamówienie czeka na realizację przez pracownika.
+
+
+
+Pracownik:
+Może dodawać nowe produkty. Może zmieniać ceny aktualnych produktów. Może zmieniać status produktów (aktywny/lub nie - pojawi się na stronie lub nie), może zmieniać dane na temat produktu. Ma dostęp do listy opłaconych zamówień, które może przyjąć do realizacji i zakończyć realizację. (UPRAWNIENIA!). Po realizacji zamówienia automatycznie zostaje wystawiona faktura dostępna do pobrania/przeglądu na koncie użytkownika. Może zmieniać swoje hasło.
